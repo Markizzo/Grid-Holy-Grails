@@ -32,6 +32,9 @@ body{
 .square1{
     background-color: red;
     grid-area: header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -47,14 +50,23 @@ body{
 .square3{
     background-color: green;
     grid-area: nav;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .square4{
     background-color: yellow;
     grid-area: article;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .square5{
     background-color: greenyellow;
     grid-area: footer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
